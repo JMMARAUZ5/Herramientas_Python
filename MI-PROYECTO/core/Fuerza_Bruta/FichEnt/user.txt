@@ -1,0 +1,11 @@
+admin
+Admin
+root
+ROOT
+user
+USER
+User
+anonymous
+prueba
+jefeword
+user2020

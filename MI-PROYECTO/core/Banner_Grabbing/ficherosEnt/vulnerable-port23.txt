@@ -1,0 +1,2 @@
+CCProxy Telnet Service Ready
+TelSrv 1.5

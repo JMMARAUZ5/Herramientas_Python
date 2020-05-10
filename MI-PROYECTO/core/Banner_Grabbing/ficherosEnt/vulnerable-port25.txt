@@ -1,0 +1,6 @@
+metasploitable.localdomain ESMTP Postfix (Ubuntu)   
+Microsoft ESMTP 6.0.3790.1830 														
+ESMTP TABS Mail Server for Windows NT
+IMAP4rev1 MDaemon 9.6.4 ready                       
+MailEnable Service, Version: 0-1.54 
+YahooPOPs! Simple Mail Transfer Service Ready

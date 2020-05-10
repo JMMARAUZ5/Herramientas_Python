@@ -1,0 +1,8 @@
+FileZilla Server version 0.9.18                     
+220 (vsFTPd 2.3.4)                                  
+3Com 3CDaemon FTP Server Version 2.0                
+Ability Server 2.34                                
+FreeFloat Ftp Server (Version 1.00)                
+PSO Proxy 0.9                                    
+Sami FTP Server 2.0.2                              
+Spipe 1.0

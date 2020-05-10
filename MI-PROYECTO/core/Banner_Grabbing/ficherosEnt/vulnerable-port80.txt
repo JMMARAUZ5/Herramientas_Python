@@ -1,0 +1,7 @@
+NetDecision-HTTP-Server 1.0                         
+SAMBAR                                             
+WinGate 6.1.1                                      
+Xitami                              
+Apache/2.4.18
+Apache/2.3.20
+Apache/2.2.2                     
